@@ -1,0 +1,6 @@
+{
+	"name": "Terminal Beats",
+	"description": "A funky robot fights a blue haired midget.",
+	"restart":true,
+	"color": [27, 89, 214]
+}
