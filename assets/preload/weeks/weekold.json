@@ -1,0 +1,41 @@
+{
+	"storyName": "sfnsf jam (legacy week)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "megamanstage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"war-cry",
+			"x",
+			[
+				27,
+				0,
+				214
+			]
+		],
+		[
+			"reploid-rock",
+			"x",
+			[
+				27,
+				0,
+				214
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "SFNSFJAM"
+}

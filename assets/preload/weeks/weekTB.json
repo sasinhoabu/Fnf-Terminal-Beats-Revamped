@@ -1,0 +1,41 @@
+{
+	"storyName": "sfnsf jam",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "TB",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"war-cry-revamp",
+			"mega",
+			[
+				27,
+				89,
+				214
+			]
+		],
+		[
+			"reploid-rock-revamp",
+			"mega",
+			[
+				27,
+				89,
+				214
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "SFNSFJAM"
+}
