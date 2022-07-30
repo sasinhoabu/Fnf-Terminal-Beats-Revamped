@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lesbian idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "lesbian left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "lesbian down miss"
+		},
+		{
+			"offsets": [
+				-6,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "lesbian miss up"
+		},
+		{
+			"offsets": [
+				-24,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "lesbian right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lesbian down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lesbian up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lesbian right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lesbian left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lesbian",
+	"position": [
+		210,
+		620
+	],
+	"healthicon": "Nbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		184,
+		224
+	],
+	"camera_position": [
+		260,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 7.49999999999999
+}
