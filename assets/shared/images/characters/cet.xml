@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cet.png">
+<SubTexture name="cet idle0000" x="127" y="0" width="72" height="90" frameX="-26" frameY="-18" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet right0000" x="277" y="0" width="80" height="79" frameX="-27" frameY="-29" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet right0001" x="72" y="98" width="76" height="85" frameX="-27" frameY="-23" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet left0000" x="74" y="188" width="81" height="80" frameX="-19" frameY="-28" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet left0001" x="199" y="0" width="78" height="84" frameX="-23" frameY="-24" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet down0000" x="277" y="79" width="76" height="78" frameX="-30" frameY="-30" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet down0001" x="0" y="188" width="74" height="82" frameX="-31" frameY="-26" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet up0000" x="0" y="0" width="60" height="98" frameX="-36" frameY="-10" frameWidth="133" frameHeight="108" />
+<SubTexture name="cet up0001" x="60" y="0" width="67" height="93" frameX="-32" frameY="-15" frameWidth="133" frameHeight="108" />
+</TextureAtlas>

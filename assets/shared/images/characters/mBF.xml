@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boyfriend.png">
+<SubTexture name="idle0000" x="0" y="0" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="idle0001" x="33" y="0" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="idle0002" x="66" y="0" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="idle0003" x="99" y="0" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="left00000" x="132" y="0" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="left00001" x="0" y="32" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="left00002" x="33" y="32" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="right00000" x="66" y="32" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="right00001" x="99" y="32" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="right00002" x="132" y="32" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="up00000" x="0" y="64" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="up00001" x="33" y="64" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="up00002" x="66" y="64" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="down00000" x="99" y="64" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="down00001" x="132" y="64" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="down00002" x="0" y="96" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missleft0000" x="33" y="96" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missleft0001" x="66" y="96" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missleft0002" x="99" y="96" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missright0000" x="132" y="96" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missright0001" x="0" y="128" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missright0002" x="33" y="128" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missup0000" x="66" y="128" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missup0001" x="99" y="128" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missup0002" x="132" y="128" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missdown0000" x="0" y="160" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missdown0001" x="33" y="160" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+<SubTexture name="missdown0002" x="66" y="160" width="33" height="32" frameX="0" frameY="0" frameWidth="33" frameHeight="32" />
+</TextureAtlas>

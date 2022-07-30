@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lesbian.png">
+<SubTexture name="lesbian idle0000" x="0" y="51" width="26" height="24" frameX="-11" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0001" x="0" y="51" width="26" height="24" frameX="-11" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0002" x="26" y="51" width="26" height="24" frameX="-12" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0003" x="26" y="51" width="26" height="24" frameX="-12" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0004" x="25" y="0" width="26" height="25" frameX="-13" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0005" x="25" y="0" width="26" height="25" frameX="-13" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0006" x="0" y="26" width="24" height="25" frameX="-14" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0007" x="0" y="26" width="24" height="25" frameX="-14" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0008" x="24" y="26" width="24" height="25" frameX="-13" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian idle0009" x="24" y="26" width="24" height="25" frameX="-13" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian up0000" x="0" y="0" width="25" height="26" frameX="-14" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian up0001" x="51" y="0" width="24" height="25" frameX="-14" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian miss up0000" x="75" y="0" width="24" height="24" frameX="-14" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian miss up0001" x="51" y="25" width="24" height="25" frameX="-14" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian down0000" x="126" y="0" width="28" height="22" frameX="-9" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian down0001" x="52" y="99" width="26" height="23" frameX="-10" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian down miss0000" x="0" y="75" width="26" height="24" frameX="-10" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian down miss0001" x="78" y="99" width="26" height="23" frameX="-10" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian left0000" x="26" y="75" width="26" height="24" frameX="-8" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian left0001" x="52" y="75" width="26" height="24" frameX="-9" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian left miss0000" x="99" y="0" width="27" height="24" frameX="-9" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian left miss0001" x="99" y="24" width="26" height="24" frameX="-9" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian right0000" x="99" y="48" width="26" height="24" frameX="-16" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian right0001" x="99" y="72" width="26" height="24" frameX="-15" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian right miss0000" x="0" y="99" width="26" height="24" frameX="-14" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="lesbian right miss0001" x="26" y="99" width="26" height="24" frameX="-15" frameY="-14" frameWidth="50" frameHeight="50" />
+</TextureAtlas>

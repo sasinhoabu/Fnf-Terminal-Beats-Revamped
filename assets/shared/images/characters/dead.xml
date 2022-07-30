@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dead.png">
+<SubTexture name="dead omg0000" x="65" y="100" width="30" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0001" x="65" y="100" width="30" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0002" x="65" y="100" width="30" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0003" x="65" y="100" width="30" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0004" x="37" y="100" width="28" height="22" frameX="-9" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0005" x="37" y="100" width="28" height="22" frameX="-9" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0006" x="37" y="100" width="28" height="22" frameX="-9" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0007" x="37" y="100" width="28" height="22" frameX="-9" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0008" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0009" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0010" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0011" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0012" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0013" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0014" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0015" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0016" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0017" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0018" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0019" x="95" y="100" width="28" height="21" frameX="-8" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0020" x="149" y="54" width="35" height="17" frameX="-5" frameY="-21" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0021" x="77" y="125" width="35" height="18" frameX="-4" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0022" x="112" y="125" width="37" height="18" frameX="-2" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0023" x="149" y="0" width="37" height="18" frameX="-2" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0024" x="149" y="18" width="37" height="18" frameX="-2" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0025" x="149" y="36" width="37" height="18" frameX="-2" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0026" x="0" y="100" width="37" height="25" frameX="-2" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0027" x="112" y="63" width="37" height="26" frameX="-2" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0028" x="37" y="0" width="37" height="33" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0029" x="0" y="34" width="37" height="33" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0030" x="37" y="34" width="37" height="33" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0031" x="74" y="0" width="38" height="33" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0032" x="74" y="33" width="37" height="33" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0033" x="0" y="0" width="37" height="34" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0034" x="112" y="32" width="37" height="31" frameX="-2" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0035" x="37" y="67" width="37" height="32" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0036" x="74" y="67" width="37" height="32" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0037" x="112" y="0" width="37" height="32" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead omg0038" x="0" y="67" width="37" height="33" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead sleep0000" x="149" y="0" width="37" height="18" frameX="-2" frameY="-20" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead wake0000" x="0" y="125" width="39" height="21" frameX="-2" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead wake0001" x="0" y="125" width="39" height="21" frameX="-2" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead wake0002" x="39" y="125" width="38" height="20" frameX="-2" frameY="-18" frameWidth="50" frameHeight="50" />
+<SubTexture name="dead wake0003" x="39" y="125" width="38" height="20" frameX="-2" frameY="-18" frameWidth="50" frameHeight="50" />
+</TextureAtlas>
+
